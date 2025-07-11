@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:54948",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\mattt\\source\\repos\\CopperLily\\CopperLily - Server Side OIDC\\CopperLily.Server\\..\\copperlily.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

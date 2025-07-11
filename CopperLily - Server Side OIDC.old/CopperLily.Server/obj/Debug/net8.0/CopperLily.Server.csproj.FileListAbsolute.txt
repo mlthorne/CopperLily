@@ -1,0 +1,141 @@
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.staticwebassets.endpoints.json
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.exe
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.deps.json
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.runtimeconfig.json
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.pdb
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.csproj.AssemblyReference.cache
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.AssemblyInfoInputs.cache
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.AssemblyInfo.cs
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.csproj.CoreCompileInputs.cache
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\scopedcss\bundle\CopperLily.Server.styles.css
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.CopperLily.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.CopperLily.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.CopperLily.Server.props
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CopperLily.Server.props
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CopperLily.Server.props
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\CopperLi.81322118.Up2Date
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\refint\CopperLily.Server.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.pdb
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.genruntimeconfig.cache
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\obj\Debug\net8.0\ref\CopperLily.Server.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\Twilio.dll
+C:\Users\mattt\source\repos\CopperLily\CopperLily.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.staticwebassets.endpoints.json
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.exe
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.deps.json
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.runtimeconfig.json
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.pdb
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\bin\Debug\net8.0\Twilio.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.csproj.AssemblyReference.cache
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.AssemblyInfoInputs.cache
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.AssemblyInfo.cs
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.csproj.CoreCompileInputs.cache
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\scopedcss\bundle\CopperLily.Server.styles.css
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.CopperLily.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.CopperLily.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.CopperLily.Server.props
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CopperLily.Server.props
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CopperLily.Server.props
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\CopperLi.81322118.Up2Date
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\refint\CopperLily.Server.dll
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.pdb
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.genruntimeconfig.cache
+C:\Users\mattt\source\repos\CopperLily - Copy\CopperLily.Server\obj\Debug\net8.0\ref\CopperLily.Server.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.staticwebassets.endpoints.json
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.exe
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.deps.json
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.runtimeconfig.json
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\CopperLily.Server.pdb
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\bin\Debug\net8.0\Twilio.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.csproj.AssemblyReference.cache
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.AssemblyInfoInputs.cache
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.AssemblyInfo.cs
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.csproj.CoreCompileInputs.cache
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\scopedcss\bundle\CopperLily.Server.styles.css
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.CopperLily.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.CopperLily.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.CopperLily.Server.props
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CopperLily.Server.props
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CopperLily.Server.props
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\CopperLi.81322118.Up2Date
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\refint\CopperLily.Server.dll
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.pdb
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\CopperLily.Server.genruntimeconfig.cache
+C:\Users\mattt\source\repos\CopperLily - Server Side OIDC\CopperLily.Server\obj\Debug\net8.0\ref\CopperLily.Server.dll

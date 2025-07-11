@@ -1,0 +1,46 @@
+<div>
+  <h1>SMS Lookup</h1>
+
+  <input type="text"
+         [(ngModel)]="phoneNumber"
+         placeholder="Enter phone number"
+         (keydown.enter)="lookupMessages()" />
+
+  <select [(ngModel)]="messageLimit">
+    <option [value]="5">5</option>
+    <option [value]="10">10</option>
+    <option [value]="20">20</option>
+  </select>
+
+  <label for="dateSentAfter">Date Sent After:</label>
+  <input type="date" id="dateSentAfter" [(ngModel)]="dateSentAfter" />
+
+  <label for="dateSentBefore">Date Sent Before:</label>
+  <input type="date" id="dateSentBefore" [(ngModel)]="dateSentBefore" />
+
+  <button (click)="lookupMessages()">Lookup Messages</button>
+
+  <div *ngIf="errorMessage" class="error">{{ errorMessage }}</div>
+
+  <table *ngIf="messages.length > 0" border="1" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+    <thead>
+      <tr>
+        <th>To</th>
+        <th>From</th>
+        <th>Date</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let message of messages; let i = index">
+        <td>{{ phoneNumberUtils.formatPhoneNumber(message.to) }}</td>
+        <td>{{ phoneNumberUtils.formatPhoneNumber(message.from) }}</td>
+        <td>{{ message.dateSent | date: 'long' }}</td>
+        <td>{{ message.status | capitalize }}</td>
+        <td>
+          <button (click)="fetchMessageDetails(message.sid)">View Details</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

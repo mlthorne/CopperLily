@@ -1,0 +1,6 @@
+@CopperLily.Server_HostAddress = http://localhost:5048
+
+GET {{CopperLily.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

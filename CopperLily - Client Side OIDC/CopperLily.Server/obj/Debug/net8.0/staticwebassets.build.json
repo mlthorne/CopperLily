@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "6EXFMKDJIrFcmZGqjRXApKGQd+hR2hP3sXnA0ihoTfc=",
+  "Source": "CopperLily.Server",
+  "BasePath": "_content/CopperLily.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\mattt\\source\\repos\\CopperLily\\copperlily.client\\copperlily.client.esproj",
+      "Version": 2,
+      "Source": "copperlily.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

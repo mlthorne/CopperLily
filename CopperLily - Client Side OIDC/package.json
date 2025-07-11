@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "angular-auth-oidc-client": "^19.0.0",
+    "libphonenumber-js": "^1.12.7"
+  }
+}

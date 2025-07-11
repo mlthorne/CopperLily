@@ -1,0 +1,62 @@
+/* Target the Angular Material dialog container */
+.mat-dialog-container {
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  width: 100%;
+  font-family: Arial, sans-serif;
+}
+
+  /* Title styling */
+  .mat-dialog-container h1.mat-dialog-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  /* Content styling */
+  .mat-dialog-container .mat-dialog-content {
+    font-size: 1rem;
+    color: #555555;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+
+  /* Actions (buttons) styling */
+  .mat-dialog-container .mat-dialog-actions {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+
+button.mat-button {
+  background-color: #1976d2;
+  color: #ffffff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+  button.mat-button:hover {
+    background-color: #1565c0;
+  }
+
+  button.mat-button:active {
+    background-color: #0d47a1;
+  }
+
+  button.mat-button[mat-dialog-close] {
+    background-color: #e0e0e0;
+    color: #333333;
+  }
+
+    button.mat-button[mat-dialog-close]:hover {
+      background-color: #d6d6d6;
+    }

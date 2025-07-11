@@ -1,0 +1,2 @@
+C:\Users\mattt\source\repos\CopperLily\copperlily.client\obj\Debug\copperlily.client.esproj.CoreCompileInputs.cache
+C:\Users\mattt\source\repos\CopperLily - Copy\copperlily.client\obj\Debug\copperlily.client.esproj.CoreCompileInputs.cache

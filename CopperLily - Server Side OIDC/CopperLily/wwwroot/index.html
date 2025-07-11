@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World Weather</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <a href="/swagger" target="_blank">Open Swagger UI</a>
+    <button id="loadWeather">Load Weather Forecast</button>
+    <pre id="weatherResult"></pre>
+    <script src="/_framework/aspnetcore-browser-refresh.js"></script>
+    <script>
+        document.getElementById('loadWeather').onclick = async function () {
+            const response = await fetch('/weatherforecast');
+            const data = await response.json();
+            document.getElementById('weatherResult').textContent = JSON.stringify(data, null, 2);
+        };
+    </script>
+</body>
+</html>
